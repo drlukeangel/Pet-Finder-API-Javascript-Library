@@ -84,4 +84,6 @@ to debug recorded api calls
 ```bash
 DEBUG=replay npm test
 ```
+ ##Npm Page
+ https://www.npmjs.com/package/pet-finder-api
  
