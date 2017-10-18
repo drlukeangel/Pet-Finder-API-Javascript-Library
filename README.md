@@ -86,4 +86,10 @@ DEBUG=replay npm test
 ```
  ## Npm Page
  https://www.npmjs.com/package/pet-finder-api
+
+ ## Typings For Typescript
+ In the typeScriptFiles folder and at the typings site 
+ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/pet-finder-api
+ 
+ Thanks to @ncipollina
  

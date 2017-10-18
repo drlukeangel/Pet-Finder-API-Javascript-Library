@@ -1,8 +1,10 @@
 {
   "name": "petfinder",
+  "author": "Luke Angel",
   "version": "0.2.0",
   "description": "Petfinder API Node Module.",
   "main": "index.js",
+  "types": "./lib/main.d.ts",
   "scripts": {
     "test": "./node_modules/.bin/mocha --grep '#skip' --invert",
     "skipped": "./node_modules/.bin/mocha --grep '#skip'"
@@ -15,7 +17,6 @@
     "Petfinder",
     "API"
   ],
-  "author": "Luke Angel",
   "licenses": [
     {
       "type": "MIT",
